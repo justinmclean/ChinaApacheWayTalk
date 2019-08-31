@@ -72,7 +72,10 @@
 
                         <!-- Maven related files -->
                         <exclude>**/target/**</exclude>
-
+                        <!-- exclude the third-party files -->
+                        <exclude>**/third-party/**</exclude>
+                        <!-- exclude the README.md file -->
+                        <exclude>README.md</exclude>
                         <!-- Eclipse related files -->
                         <exclude>**/.project</exclude>
                         <exclude>**/.settings/**</exclude>
