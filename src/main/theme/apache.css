@@ -395,3 +395,13 @@ body {
   text-align: center;
   width: 100%;
 }
+
+/* custom styles */
+.big {
+  font-size: 150%
+}
+
+.small {
+  font-size: 75%
+}
+
