@@ -77,7 +77,7 @@ image::TODO.png[]
 == “The Apache Way” core principles
 * Rough consensus and working code
 * Small reversible steps
-* Any constructive contribution DOES earn merit... ...while corporate affiliation and seniority DOESN’T
+* Any constructive contribution DOES earn merit... while corporate affiliation and seniority DOESN’T
 * Merit doesn't expire
 * Merit doesn't give you authority; it gives you access
 * No BDFLs, no vetoes - relying on building consensus instead
@@ -238,7 +238,7 @@ image::TODO.png[]
 * Not expected to get it right first off
 * Licensing is complex
 * May not be familiar with policy
-* Policy doesn’t cover all situations
+* Policy doesn't cover all situations
 * Policy is more guidelines, there are few absolute rules
 * Release early and release often
 * Each release better than the last
@@ -248,7 +248,7 @@ image::TODO.png[]
 ** MIT, 2 and 3 clause BSD
 * **Category B** - can depend and may be able to include 
 ** Common Development and Distribution License (CDDL), Eclipse Public License (EPL), Mozilla Public License (MPL), Creative Common Attribution (CC-A)
-* **Category X** - can’t depend on or include in release
+* **Category X** - can't depend on or include in release
 ** GPL, LGPL, non commercial licenses, JSON
 
 == Binary releases
