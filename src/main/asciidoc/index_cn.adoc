@@ -19,7 +19,7 @@
 
 
 == ASF基金会和Apache Way
-:description: 在ASF基础和Apache Way上进行90分钟的谈话
+:description: 介绍ASF以及Apache Way的60分钟演讲
 :keywords: Apache Way
 :authors: XXX
 {authors} +
@@ -36,5 +36,5 @@ image::ApacheLogo.png[]
 include::projectstats.adoc[]
 * {committers} 提交者, {members} 成员, {PMCs} PMCs, {podlings} podlings
 
-== ! 
+== !
 * 没有标题的幻灯片

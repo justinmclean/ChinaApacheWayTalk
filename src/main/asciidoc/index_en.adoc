@@ -18,26 +18,33 @@
 ////
 
 == !
-:description: 90 minute talk on the ASF foundation and the Apache Way
+:description: 60 minute talk on the ASF foundation and the Apache Way
 :keywords: Apache Way
 :authors: Presented by + \
-Willem Jiang + \
 Craig Russell + \
 Justin Mclean + \
+Willem Jiang + \
 Including original work of Bertrand Delacretaz, Roman Shaposhnik and other amazing ASF contributors
 image::ApacheLogo.png[]
 
 == Apache Explained
 {authors} +
 
-== Who is Willem Jiang?
-* TODO
+== Who is Craig Russell?
+* Software Architect
+** Object Data Management Group
+** Java Data Objects (JDO)
+** Database Jones (MySQL)
+* Apache Committer - from 2005
+* Apache Member - from 2007
+* Apache Secretary - from 2010
+* Member, Incubator Project Management Committee
 
 == Apache Software Foundation: The World’s Largest Open Source Foundation
 
 == The ASF’s Mission
 [.small]#The Apache Software Foundation (ASF) is a US 501(c)(3) charitable organization.
-Its mission is to provide Open Source software for the public good. 
+Its mission is to provide Open Source software for the public good.
 We do this by providing services and support for many like-minded software project communities of individuals who choose to join the ASF.#
 
 A **neutral space** where projects which are **independent** from any corporate influence can prosper and create **Open Source software** for the **public good**. Under the business-friendly Apache License 2.0
@@ -49,9 +56,8 @@ A **neutral space** where projects which are **independent** from any corporate 
 == !
 image::TODO.png[]
 
-
 == First Project
-image::TODO.png[]
+image::ApacheHttpd.png[]
 
 [.big]#World's Most Popular Server +
 2019 24th Anniversary +
@@ -101,20 +107,10 @@ AKA +
 * Safety
 
 == !
-image::TODO.png[]
+image::TODO.png[ApacheStatistics]
 
 == !
-image::TODO.png[]
-
-== Who is Craig Russell?
-* Software Architect
-** Object Data Management Group
-** Java Data Objects (JDO)
-** Database Jones (MySQL)
-* Apache Committer - from 2005
-* Apache Member - from 2007
-* Apache Secretary - from 2010
-* Member, Incubator Project Management Committee
+image::ApacheSponsors.jpg[]
 
 == Why existing projects come to Apache
 * **Corporate Citizenship** — Give to charity
@@ -124,12 +120,22 @@ image::TODO.png[]
 * **Legal Protection** — The ASF protects contributors
 
 == The Apache Incubator
-* The official entry path for projects to enter The Apache Software Foundation. 
+* The official entry path for projects to enter The Apache Software Foundation.
 * Mentorship helps train communities in "The Apache Way".
-image::TODO.png[]
+
+image::ApacheIncubatorLogo.png[]
 
 == Podlings Undergoing Development
-image::TODO.png[]
+image::ApacheIncubator.png[]
+
+== Who is Justin Mclean?
+* Freelance developer for 25+ years
+** IoT Meetup Sydney
+* Apache Committer - from 2012
+* Apache Member - from 2014
+* Member, Incubator Project Management Committee,
+* VP Apache Incubator, VP Apache Mynewt
+* Mentor for IoTDB, Dubbo, RocketMQ and Apex
 
 == The Apache Incubator
 * Learn The Apache Way
@@ -137,8 +143,6 @@ image::TODO.png[]
 * Establish Licensing
 * Integrate Infrastructure
 * Release
-
-image::TODO.png[]
 
 == The Apache Incubator
 * Takes 1-2 years sometimes longer
@@ -156,7 +160,7 @@ image::TODO.png[]
 * **Respect** — Everyone’s point of view has value
 * **Trust** — Assume the best intentions
 * **Humility** — Others might have better ideas
- 
+
 Code of conduct: https://www.apache.org/foundation/policies/conduct.html
 
 == Incubation: Licensing is a key aspect
@@ -188,18 +192,13 @@ Code of conduct: https://www.apache.org/foundation/policies/conduct.html
 ** Self-governance
 ** Release management
 * Establish legal framework
-* Publicity 
+* Publicity
 
-image::TODO.png[]
-
-== Who is Justin Mclean?
-* Freelance developer for 25+ years
-** IoT Meetup Sydney
-* Apache Committer - from 2012
-* Apache Member - from 2014
-* Member, Incubator Project Management Committee,
-* VP Apache Incubator, VP Apache Mynewt
-* Mentor for IoTDB, Dubbo, RocketMQ and Apex
+== Who is Willem Jiang ?
+* Huawei OpenSource Center Techincal Expert
+* Former RedHat Principle Engineer
+* Apache Member
+* VP Apache ServiceComb
 
 == Apache License
 * Universal donor
@@ -246,7 +245,7 @@ image::TODO.png[]
 == Licensing
 * **Category A** - can depend on and include in release
 ** MIT, 2 and 3 clause BSD
-* **Category B** - can depend and may be able to include 
+* **Category B** - can depend and may be able to include
 ** Common Development and Distribution License (CDDL), Eclipse Public License (EPL), Mozilla Public License (MPL), Creative Common Attribution (CC-A)
 * **Category X** - can't depend on or include in release
 ** GPL, LGPL, non commercial licenses, JSON
