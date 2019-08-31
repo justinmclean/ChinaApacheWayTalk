@@ -1,5 +1,5 @@
 
-# ASF and teh Apache Way
+# ASF and the Apache Way
 
 An overview of the ASF foundation and how it operates under the Apache Way.
 
