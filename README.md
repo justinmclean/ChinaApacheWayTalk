@@ -1,5 +1,5 @@
 
-# ASF and teh Apache Way
+# ASF and the Apache Way
 
 An overview of the ASF foundation and how it operates under the Apache Way.
 
@@ -21,7 +21,7 @@ Then run:
 
 To update the ASF statistics (no of podlings, no of committers etc. etc.) run:
 
-`python3 stats.py > ../asciidoc/projectstats.adoc`
+`python3 stats.py > asciidoc/projectstats.adoc`
 
 ## How to View the Slides
 
