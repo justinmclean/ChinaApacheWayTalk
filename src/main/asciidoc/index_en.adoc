@@ -54,7 +54,7 @@ A **neutral space** where projects which are **independent** from any corporate 
 [.big]#Mission: To provide software at no charge for the public good.#
 
 == !
-image::TODO.png[]
+image::ApacheProjects.png[]
 
 == First Project
 image::ApacheHttpd.png[]
@@ -107,7 +107,7 @@ AKA +
 * Safety
 
 == !
-image::TODO.png[ApacheStatistics]
+image::ApacheStatistics.jpg[]
 
 == !
 image::ApacheSponsors.jpg[]
@@ -171,6 +171,7 @@ Code of conduct: https://www.apache.org/foundation/policies/conduct.html
 ** Copyright
 ** Patent
 ** Distribution/Modification
+
 
 == Infrastructure: Keeping the wheels on
 * **Mail lists** — “If it isn't on an archived list, it didn't happen”. Communication and review are essential to project governance.
@@ -256,7 +257,7 @@ Code of conduct: https://www.apache.org/foundation/policies/conduct.html
 * Also need to follow policy
 
 == Growing the community
-* Recognising merit
+* Recognizing merit
 * Initially committers == PPMC
 * PPMC appoint new committers and PPMC members
 
