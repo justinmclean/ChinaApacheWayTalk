@@ -21,7 +21,7 @@ Then run:
 
 To update the ASF statistics (no of podlings, no of committers etc. etc.) run:
 
-`python3 stats.py > ../asciidoc/projectstats.adoc`
+`python3 stats.py > asciidoc/projectstats.adoc`
 
 ## How to View the Slides
 
