@@ -38,6 +38,9 @@ Some features require the slides to be viewed via a http/https url you can do th
 
 And goto `http://127.0.0.1:8080/index_en.html` or `http://127.0.0.1:8080/index_cn.html`in a browser to view.
 
+How to print pdf:
+please access "http://127.0.0.1:8080/index_en.html?print-pdf” in a browser and print the page with landscape layout.
+
 Some key shortcuts that may help you give a presentation:
 
 - Cursor keys and space can navigate the slides.
