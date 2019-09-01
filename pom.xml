@@ -264,6 +264,7 @@
                         <mermaid>${basedir}/libs/third-party/node_modules/.bin/mmdc</mermaid>
                         <phantomjs>${basedir}/libs/third-party/phantomjs-2.1.1-macosx/bin/phantomjs</phantomjs>
                         <vg2svg>${basedir}/libs/third-party/node_modules/.bin/vg2svg</vg2svg>
+                        <plugin_pdf>enabled</plugin_pdf>
                     </attributes>
                 </configuration>
                 <dependencies>
