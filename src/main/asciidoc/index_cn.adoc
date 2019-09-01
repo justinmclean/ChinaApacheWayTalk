@@ -17,24 +17,277 @@
 
 ////
 
-
-== ASF基金会和Apache Way
-:description: 介绍ASF以及Apache Way的60分钟演讲
-:keywords: Apache Way
-:authors: XXX
-{authors} +
-
-== 文字幻灯片
-* 第一点
-* 第二点
-* 第三点
-
-== 图像幻灯片
+== !
+:description: 介绍ASF以及Apache之道的60分钟演讲
+:keywords: Apache之道
+:authors: 演讲者 + \
+Craig Russell + \
+Justin Mclean + \
+Willem Jiang + \
+本演讲包含了 Bertrand Delacretaz, Roman Shaposhnik 以及其 ASF 贡献者的工作
 image::ApacheLogo.png[]
 
-== 直播幻灯片
-include::projectstats.adoc[]
-* {committers} 提交者, {members} 成员, {PMCs} PMCs, {podlings} podlings
+== 解读Apache
+{authors} +
+
+== Who is Craig Russell?
+* Software Architect
+** Object Data Management Group
+** Java Data Objects (JDO)
+** Database Jones (MySQL)
+* Apache Committer - from 2005
+* Apache Member - from 2007
+* Apache Secretary - from 2010
+* Member, Incubator Project Management Committee
+
+== Apache软基金金会:
+[.big]#世界最大的开源基金会#
+
+== Apache基金会的使命
+[.small]#Apache软基金金会 (ASF) 是一个根据美国法案 501(c)(3)注册公益性组织。
+ASF的使命是通过向加入ASF的志同道合的软件项目社区提供服务，来为公众提供开源软件。#
+
+ASF提供了一个**独立**于任何公司影响力的**中立空间**，保证其中的项目可以在商业友好Apache许可证2.0下繁荣发展， 为**公众利益**创建**开源软件**。
+
+== 公开成立于1999年的公益组织
+
+[.big]#使命: 为公众利益提供免费的软件。#
 
 == !
-* 没有标题的幻灯片
+image::ApacheProjects.png[]
+
+== 第一个项目
+image::ApacheHttpd.png[]
+
+[.big]#**世界上使用最广的服务器** +
+至2019已经成立24年 +
+(加入ASF 20年)#
+
+== Apache 项目涉猎领域
+* 人工智能 AI
+* IoT
+* 大数据
+* 金融管理
+* 气候变化
+
+== Apache项目还没有涉猎的领域[Yet]
+* 机器人
+* 制动驾驶
+* 星际探索
+* 区块链
+* 也有可能是你的项目
+
+== ASF 提供了项目的治理
+[.big]#Apache之道#
+
+== “Apache之道” 核心原则
+* 粗略的共识和可以工作的代码
+* 小的可逆步骤（进行探索）
+* 任何建设性的贡献都可以获得功绩......而企业从属关系和资历却没有
+* 功绩不会过期
+* 功绩不给你权威; 它可以让你行使权力
+* 没有独裁者，没有否决权 - 依赖于建立共识
+
+== !
+[.big]#**“Apache 之道” +
+AKA +
+ “社区胜于代码”**#
+
+== ASF依托于Apache之道运作
+* **精英之治**  - 个人通过他们的工作和方式获得功绩。
+* **透明度**  - 我们的项目是公开开发的，所以每个想参与的人都能够参与。
+* **社区**  - 我们将社区健康放在首位。
+
+[.big]#注意不是所有的项目适合Apache之道的#
+
+== Apache之道保证了:
+* 厂商中立
+* 多样性
+* 可信
+* 安全
+
+== !
+image::ApacheStatistics.jpg[]
+
+== !
+image::ApacheSponsors.jpg[]
+
+== 为什么大量的项目会加入Apache
+* **有社会责任感的公司** — 公益贡献
+* **高质量的代码** — 众多的开发者可以从不同角度审视代码
+* **合作与竞争** — 竞争对手可以通过开源项目合作共赢
+* **“免费的”培训** — 通过社区培训新的开发者省时省力
+* **法律保护** — ASF保护贡献者
+
+== Apache孵化器
+[.twocolumns]
+--
+* 提供一个官方进入Apache软件基金会途径。
+* 通过导师为社区提供Apache之道的培训。
+
+image::ApacheIncubatorLogo.png[]
+--
+
+== Podlings Undergoing Development
+image::ApacheIncubator.png[]
+
+== Who is Justin Mclean?
+* Freelance developer for 25+ years
+** IoT Meetup Sydney
+* Apache Committer - from 2012
+* Apache Member - from 2014
+* Member, Incubator Project Management Committee,
+* VP Apache Incubator, VP Apache Mynewt
+* Mentor for IoTDB, Dubbo, RocketMQ and Apex
+
+== The Apache Incubator
+[.twocolumns]
+--
+* Learn The Apache Way
+* Build the Community
+* Establish Licensing
+* Integrate Infrastructure
+* Release
+
+image::bridge.jpg[float=right]
+--
+
+== The Apache Incubator
+[.twocolumns]
+--
+* Takes 1-2 years sometimes longer
+* Graduate to a Top Level Project
+* Not all projects graduate
+
+image::bike.jpg[float=right]
+--
+
+== Incubation: Build the Community
+* **Users** — Users are the reason a project exists. No users ⇒ no project
+* **Contributors** — Our projects depend on contributions from the community -- bug reports, email discussions, bug fixes, documentation
+* **Committers** — Frequent contributors become committers after demonstrating merit
+* **Project Management Committee Members** — The PMC is responsible for setting the direction of the project, authorizing releases, and voting new committers and PMC members
+
+== Community
+* **Politeness** — Be nice
+* **Respect** — Everyone’s point of view has value
+* **Trust** — Assume the best intentions
+* **Humility** — Others might have better ideas
+
+Code of conduct: https://www.apache.org/foundation/policies/conduct.html
+
+== Incubation: Licensing is a key aspect
+* **Provenance** — Establish where every line of code originated
+* **Trademarks** — Must not conflict with existing names
+* **Software Grants** — The owner of the intellectual property of existing code/test/documentation must grant rights to Apache
+* **Contributor Licenses** — Contributions while at Apache are governed by contributor licenses:
+** Copyright
+** Patent
+** Distribution/Modification
+
+
+== Infrastructure: Keeping the wheels on
+* **Mail lists** — “If it isn't on an archived list, it didn't happen”. Communication and review are essential to project governance.
+* **Source repository** — Viewing all parts of the system is open to the public. Changes are made only by committers via procedures established by the PMC.
+* **Build/Test**  — Most projects now incorporate continuous integration build and test processes.
+* **Establish a Web Presence** — Each project has its own unique web page https://project.apache.org
+
+== Release distributions
+* Legally an act of the Foundation
+** “Does NOT need to work”
+** “Does need proper licensing”
+* Authorized by the Project Management Committee
+** Vote required
+** Digital Signature(s) required
+* Distributed via extensive mirror system
+
+== Incubation: Graduation
+[.twocolumns]
+--
+* Demonstrate that the project can operate independently:
+** Self-governance
+** Release management
+* Establish legal framework
+* Publicity
+
+image:fireworks.jpg[float=right]
+--
+
+== Who is Willem Jiang ?
+* Huawei OpenSource Center Techincal Expert
+* Former RedHat Principle Engineer
+* Apache Member
+* VP Apache ServiceComb
+
+== Apache License
+* Universal donor
+* Pragmatic
+* Free for commercial and non-commercial use
+* Compatible with other Open Source licenses
+
+== Releases
+* Are signed
+* Need an incubating disclaimer
+* Have LICENSE and NOTICE files
+* Follows license terms of ALv2 and any included 3rd party software
+* Source files have ASF headers
+* Consist of source with no compiled code
+
+== Voting on Releases
+* Vote in the open on mailing list
+* Vote open for 72 hours
+* Release needs to comply with ASF policy
+* Needs 3 +1 votes and more +1’s than -1’s
+* A -1 vote (a veto) doesn't block the release
+* -1 needs to have a reason to be valid
+* Can change your vote
+* If vote passes then the IPMC votes on the release
+* If vote fails then create new release candidate and vote again
+
+== Why you might vote -1
+* Unexpected compiled code in release
+* Includes software with incompatible license
+* Issue with LICENSE and NOTICE files
+* Issue with copyright
+* Missing ASF headers
+* Contains encryption software
+
+== Practice makes perfect
+* Not expected to get it right first off
+* Licensing is complex
+* May not be familiar with policy
+* Policy doesn't cover all situations
+* Policy is more guidelines, there are few absolute rules
+* Release early and release often
+* Each release better than the last
+
+== Licensing
+* **Category A** - can depend on and include in release
+** MIT, 2 and 3 clause BSD
+* **Category B** - can depend and may be able to include
+** Common Development and Distribution License (CDDL), Eclipse Public License (EPL), Mozilla Public License (MPL), Creative Common Attribution (CC-A)
+* **Category X** - can't depend on or include in release
+** GPL, LGPL, non commercial licenses, JSON
+
+== Binary releases
+* Are not required
+* Are not official releases
+* Also need to follow policy
+
+== Growing the community
+* Recognizing merit
+* Initially committers == PPMC
+* PPMC appoint new committers and PPMC members
+
+== Frequently Asked Questions
+* What is BDFL
+* What are Rule of 3 and Rule of 72
+* What is JFDI
+* What are RTC/CTR
+* What is Lazy Consensus
+
+== Support The ASF
+* The ASF is funded through **tax-deductible contributions** from corporations, foundations, and private individuals
+* **The ASF spends 10% or less on overhead**
+* ASF Infrastructure keeps Apache critical support services running 24x7x365 for **less than US$5K per project/year**
+* Help keep Apache software projects **freely available to ALL** around the world
