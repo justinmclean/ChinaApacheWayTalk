@@ -59,7 +59,7 @@ image::ApacheProjects.png[]
 == First Project
 image::ApacheHttpd.png[]
 
-[.big]#World's Most Popular Server +
+[.big]#**World's Most Popular Server** +
 2019 24th Anniversary +
 (20 years at the ASF)#
 
@@ -89,9 +89,9 @@ image::ApacheHttpd.png[]
 * No BDFLs, no vetoes - relying on building consensus instead
 
 == !
-[.big]#“The Apache Way” +
+[.big]#**“The Apache Way” +
 AKA +
- “Community over code”#
+ “Community over code”**#
 
 == Why the ASF Works: The Apache Way
 * **Meritocracy** — Individuals earn merit by what they do and how.
@@ -120,10 +120,13 @@ image::ApacheSponsors.jpg[]
 * **Legal Protection** — The ASF protects contributors
 
 == The Apache Incubator
+[.twocolumns]
+--
 * The official entry path for projects to enter The Apache Software Foundation.
 * Mentorship helps train communities in "The Apache Way".
 
 image::ApacheIncubatorLogo.png[]
+--
 
 == Podlings Undergoing Development
 image::ApacheIncubator.png[]
@@ -138,16 +141,26 @@ image::ApacheIncubator.png[]
 * Mentor for IoTDB, Dubbo, RocketMQ and Apex
 
 == The Apache Incubator
+[.twocolumns]
+--
 * Learn The Apache Way
 * Build the Community
 * Establish Licensing
 * Integrate Infrastructure
 * Release
 
+image::bridge.jpg[float=right]
+--
+
 == The Apache Incubator
+[.twocolumns]
+--
 * Takes 1-2 years sometimes longer
 * Graduate to a Top Level Project
 * Not all projects graduate
+
+image::bike.jpg[float=right]
+--
 
 == Incubation: Build the Community
 * **Users** — Users are the reason a project exists. No users ⇒ no project
@@ -189,11 +202,16 @@ Code of conduct: https://www.apache.org/foundation/policies/conduct.html
 * Distributed via extensive mirror system
 
 == Incubation: Graduation
+[.twocolumns]
+--
 * Demonstrate that the project can operate independently:
 ** Self-governance
 ** Release management
 * Establish legal framework
 * Publicity
+
+image:fireworks.jpg[float=right]
+--
 
 == Who is Willem Jiang ?
 * Huawei OpenSource Center Techincal Expert
