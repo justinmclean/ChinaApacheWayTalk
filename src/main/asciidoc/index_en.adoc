@@ -228,7 +228,7 @@ image:fireworks.jpg[float=right]
 
 == ServiceComb Incubating Journey
 
-image:TODO.png
+image:ServiceCombIncubating.png[]
 
 == Who is Willem Jiang ?
 * Huawei OpenSource Center Techincal Expert
@@ -237,9 +237,9 @@ image:TODO.png
 * VP Apache ServiceComb
 
 == ServiceComb Introduction
-* **Java Chassis** - High performance Java service engine, provides MicroServices Management
+* **Java Chassis** - High performance Java service engine with MicroServices governance
 * **Service Center** - High performance Service Center based on Etcd
-* **Pack** - A Centrical distributed transaction coordinator which support Saga and TCC
+* **Pack** - A Centrical distributed transaction coordinator which supports Saga and TCC
 * **Mesher** - A services mesh implementation based on Go
 * **Kie** - A new designed MicroServices configuration center
 
