@@ -110,7 +110,8 @@ AKA +
 image::ApacheStatistics.jpg[]
 
 == !
-image::ApacheSponsors.jpg[]
+image::ApacheSponsors.png[]
+[.small]#And also a number of Bronze sponsors, full up-to-date list at http://www.apache.org/foundation/thanks.html#
 
 == Why existing projects come to Apache
 * **Corporate Citizenship** — Give to charity

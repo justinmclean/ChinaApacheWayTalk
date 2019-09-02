@@ -23,8 +23,8 @@
 :authors: 演讲者 + \
 Craig Russell + \
 Justin Mclean + \
-Willem Jiang + \
-本演讲包含了 Bertrand Delacretaz, Roman Shaposhnik 以及其 ASF 贡献者的工作
+姜宁 + \
+本演讲包含了 Bertrand Delacretaz, Roman Shaposhnik 以及其它ASF贡献者的工作
 image::ApacheLogo.png[]
 
 == 解读Apache
@@ -110,7 +110,9 @@ AKA +
 image::ApacheStatistics.jpg[]
 
 == !
-image::ApacheSponsors.jpg[]
+image::ApacheSponsors.png[]
+[.small]#获取铜牌赞助商以最新赞助信息,请访问http://www.apache.org/foundation/thanks.html#
+
 
 == 为什么大量的项目会加入Apache
 * **有社会责任感的公司** — 公益贡献
