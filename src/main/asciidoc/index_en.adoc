@@ -246,11 +246,11 @@ image:ServiceCombIncubating.png[]
 == Find a way to Apache
 * Writing a proposal of your project
 * Finding a Champion and Mentors
-* Proposal Discussion in IPMC
+* Proposal discussion in IPMC
 * Starting a vote of your proposal
 * Creating a podling project inside of Apache Incubator
 * SGA, CLA, iCLA Signing
-* TradeMark Searching
+* Podling name searching
 
 == Integrating with Apache Infrastructure
 * **Mail lists** — “If it isn't on an archived list, it didn't happen”.
@@ -259,7 +259,7 @@ image:ServiceCombIncubating.png[]
 * **Build/Test**  — Most projects now incorporate continuous integration build and test processes.
 * **Establish a Web Presence** — Each project has its own unique web page https://project.apache.org
 
-== Build the Community
+== Community
 * **Users** — Users are the reason a project exists. No users ⇒ no project
 * **Contributors** — Our projects depend on contributions from the community -- bug reports, email discussions, bug fixes, documentation
 * **Committers** — Frequent contributors become committers after demonstrating merit
