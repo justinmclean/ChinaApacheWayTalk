@@ -145,9 +145,8 @@ image::ApacheIncubator.png[]
 [.twocolumns]
 --
 * Learn The Apache Way
-* Build the Community
+* Growing the community
 * Establish Licensing
-* Integrate Infrastructure
 * Release
 
 image::bridge.jpg[float=right]
@@ -163,35 +162,34 @@ image::bridge.jpg[float=right]
 image::bike.jpg[float=right]
 --
 
-== Incubation: Build the Community
-* **Users** — Users are the reason a project exists. No users ⇒ no project
-* **Contributors** — Our projects depend on contributions from the community -- bug reports, email discussions, bug fixes, documentation
-* **Committers** — Frequent contributors become committers after demonstrating merit
-* **Project Management Committee Members** — The PMC is responsible for setting the direction of the project, authorizing releases, and voting new committers and PMC members
-
-== Community
+== Community Building
 * **Politeness** — Be nice
 * **Respect** — Everyone’s point of view has value
 * **Trust** — Assume the best intentions
 * **Humility** — Others might have better ideas
 
-Code of conduct: https://www.apache.org/foundation/policies/conduct.html
+[.small]#Code of conduct: https://www.apache.org/foundation/policies/conduct.html#
 
-== Incubation: Licensing is a key aspect
+== Licensing is a key aspect
 * **Provenance** — Establish where every line of code originated
 * **Trademarks** — Must not conflict with existing names
 * **Software Grants** — The owner of the intellectual property of existing code/test/documentation must grant rights to Apache
 * **Contributor Licenses** — Contributions while at Apache are governed by contributor licenses:
-** Copyright
-** Patent
-** Distribution/Modification
+** Copyright, Patent, Distribution/Modification
 
+== Apache License
+* Universal donor
+* Pragmatic
+* Free for commercial and non-commercial use
+* Compatible with other Open Source licenses
 
-== Infrastructure: Keeping the wheels on
-* **Mail lists** — “If it isn't on an archived list, it didn't happen”. Communication and review are essential to project governance.
-* **Source repository** — Viewing all parts of the system is open to the public. Changes are made only by committers via procedures established by the PMC.
-* **Build/Test**  — Most projects now incorporate continuous integration build and test processes.
-* **Establish a Web Presence** — Each project has its own unique web page https://project.apache.org
+== Licensing
+* **Category A** - can depend on and include in release
+** MIT, 2 and 3 clause BSD
+* **Category B** - can depend and may be able to include
+** Common Development and Distribution License (CDDL), Eclipse Public License (EPL), Mozilla Public License (MPL), Creative Common Attribution (CC-A)
+* **Category X** - can't depend on or include in release
+** GPL, LGPL, non commercial licenses, JSON
 
 == Release distributions
 * Legally an act of the Foundation
@@ -202,7 +200,21 @@ Code of conduct: https://www.apache.org/foundation/policies/conduct.html
 ** Digital Signature(s) required
 * Distributed via extensive mirror system
 
-== Incubation: Graduation
+== Releases
+* Are signed
+* Need an incubating disclaimer
+* Have LICENSE and NOTICE files
+* Follows license terms of ALv2 and any included 3rd party software
+* Source files have ASF headers
+* Consist of source with no compiled code
+
+== Binary releases
+* Are not required
+* Are not official releases
+* Also need to follow policy
+
+
+== Graduation
 [.twocolumns]
 --
 * Demonstrate that the project can operate independently:
@@ -214,27 +226,54 @@ Code of conduct: https://www.apache.org/foundation/policies/conduct.html
 image:fireworks.jpg[float=right]
 --
 
+== ServiceComb Incubating Journey
+
+image:ServiceCombIncubating.png[]
+
 == Who is Willem Jiang ?
 * Huawei OpenSource Center Techincal Expert
 * Former RedHat Principle Engineer
 * Apache Member
 * VP Apache ServiceComb
 
-== Apache License
-* Universal donor
-* Pragmatic
-* Free for commercial and non-commercial use
-* Compatible with other Open Source licenses
+== ServiceComb Introduction
+* **Java Chassis** - High performance Java service engine with MicroServices governance
+* **Service Center** - High performance Service Center based on Etcd
+* **Pack** - A Centrical distributed transaction coordinator which supports Saga and TCC
+* **Mesher** - A services mesh implementation based on Go
+* **Kie** - A new designed MicroServices configuration center
 
-== Releases
-* Are signed
-* Need an incubating disclaimer
-* Have LICENSE and NOTICE files
-* Follows license terms of ALv2 and any included 3rd party software
-* Source files have ASF headers
-* Consist of source with no compiled code
+== Find a way to Apache
+* Writing a proposal of your project
+* Finding a Champion and Mentors
+* Proposal discussion in IPMC
+* Starting a vote of your proposal
+* Creating a podling project inside of Apache Incubator
+* SGA, CLA, iCLA Signing
+* Podling name searching
 
-== Voting on Releases
+== Integrating with Apache Infrastructure
+* **Mail lists** — “If it isn't on an archived list, it didn't happen”.
+* **Issues** - Using JIRA or github issue to track the development related issues.
+* **Source repository** — Viewing all parts of the system is open to the public.
+* **Build/Test**  — Most projects now incorporate continuous integration build and test processes.
+* **Establish a Web Presence** — Each project has its own unique web page https://project.apache.org
+
+== Community
+* **Users** — Users are the reason a project exists. No users ⇒ no project
+* **Contributors** — Our projects depend on contributions from the community -- bug reports, email discussions, bug fixes, documentation
+* **Committers** — Frequent contributors become committers after demonstrating merit
+* **Project Management Committee Members** — The PMC is responsible for setting the direction of the project, authorizing releases, and voting new committers and PMC members
+
+== Growing the community
+* Raising The Profile
+** Improving the website, using grassroots media
+** Submitting talks to conference, writing articles
+** Working with downstream projects
+* Building a community by stepping back a little
+* Helping developers become committers
+
+== Voting Rules of Release
 * Vote in the open on mailing list
 * Vote open for 72 hours
 * Release needs to comply with ASF policy
@@ -245,7 +284,7 @@ image:fireworks.jpg[float=right]
 * If vote passes then the IPMC votes on the release
 * If vote fails then create new release candidate and vote again
 
-== Why you might vote -1
+== Why you might vote -1 in IPMC
 * Unexpected compiled code in release
 * Includes software with incompatible license
 * Issue with LICENSE and NOTICE files
@@ -262,30 +301,14 @@ image:fireworks.jpg[float=right]
 * Release early and release often
 * Each release better than the last
 
-== Licensing
-* **Category A** - can depend on and include in release
-** MIT, 2 and 3 clause BSD
-* **Category B** - can depend and may be able to include
-** Common Development and Distribution License (CDDL), Eclipse Public License (EPL), Mozilla Public License (MPL), Creative Common Attribution (CC-A)
-* **Category X** - can't depend on or include in release
-** GPL, LGPL, non commercial licenses, JSON
+== Graduation from Apache Incubator
+* Complete (and sign off) tasks documented in the status file
+* Ensure suitable project name and product names
+* Demonstrate ability to creating an Apache Release
+* Creating an Open and Diverse community
+* Check with apache project maturity model
 
-== Binary releases
-* Are not required
-* Are not official releases
-* Also need to follow policy
-
-== Growing the community
-* Recognizing merit
-* Initially committers == PPMC
-* PPMC appoint new committers and PPMC members
-
-== Frequently Asked Questions
-* What is BDFL
-* What are Rule of 3 and Rule of 72
-* What is JFDI
-* What are RTC/CTR
-* What is Lazy Consensus
+[.small]#http://community.apache.org/apache-way/apache-project-maturity-model.html#
 
 == Support The ASF
 * The ASF is funded through **tax-deductible contributions** from corporations, foundations, and private individuals
