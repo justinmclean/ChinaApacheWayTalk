@@ -72,7 +72,7 @@ image::ApacheHttpd.png[]
 
 == Apache项目还没有涉猎的领域[Yet]
 * 机器人
-* 制动驾驶
+* 自动驾驶
 * 星际探索
 * 区块链
 * 也有可能是你的项目
@@ -154,6 +154,18 @@ image::ApacheIncubator.png[]
 image::bridge.jpg[float=right]
 --
 
+== Apache孵化器
+[.twocolumns]
+--
+* 理解Apache之道
+* 构建社区
+* 修建协议
+* ？统一基础结构
+* 发布
+
+image::bridge.jpg[float=right]
+--
+
 == The Apache Incubator
 [.twocolumns]
 --
@@ -164,11 +176,27 @@ image::bridge.jpg[float=right]
 image::bike.jpg[float=right]
 --
 
+== Apache孵化器
+[.twocolumns]
+--
+* 需要1-2年或更久的时间
+* 逐渐成为顶级项目
+* 并非每一个项目都有这样的机会
+
+image::bike.jpg[float=right]
+--
+
 == Incubation: Build the Community
 * **Users** — Users are the reason a project exists. No users ⇒ no project
 * **Contributors** — Our projects depend on contributions from the community -- bug reports, email discussions, bug fixes, documentation
 * **Committers** — Frequent contributors become committers after demonstrating merit
 * **Project Management Committee Members** — The PMC is responsible for setting the direction of the project, authorizing releases, and voting new committers and PMC members
+
+== 孵化器之**构建社区** 社区角色
+* **用户** — 用户是项目存在的意义，没有用户意味着项目不应该存在。
+* **贡献者** — 项目依赖于来自社区的贡献者们。得益于贡献者们，及时反馈bug，邮件讨论，对bug进行改正，增加文档等任务能够完成。
+* **代码提交者** — 以功绩为参考项，杰出的贡献者们能够成为代码提交者。
+* **项目管理委员会会员** — 项目委员会（PMC）负责制定项目的方向，批准发布以及对新的代码提交者和PMC会员投票。
 
 == Community
 * **Politeness** — Be nice
@@ -177,6 +205,15 @@ image::bike.jpg[float=right]
 * **Humility** — Others might have better ideas
 
 Code of conduct: https://www.apache.org/foundation/policies/conduct.html
+
+== 社区
+* **友善** — 友善待人
+* **尊重** — 每个人的意见都至关重要
+* **Trust** — Assume the best intentions
+* **Humility** — Others might have better ideas
+
+Code of conduct: https://www.apache.org/foundation/policies/conduct.html
+
 
 == Incubation: Licensing is a key aspect
 * **Provenance** — Establish where every line of code originated
