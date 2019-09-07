@@ -40,8 +40,7 @@ image::ApacheLogo.png[]
 * Apache Secretary - from 2010
 * Member, Incubator Project Management Committee
 
-== Apache软基金金会:
-[.big]#世界最大的开源基金会#
+== Apache 软件基金会: 世界上最大的开源基金会
 
 == Apache基金会的使命
 [.small]#Apache软基金金会 (ASF) 是一个根据美国法案 501(c)(3)注册公益性组织。
@@ -77,7 +76,8 @@ image::ApacheHttpd.png[]
 * 区块链
 * 也有可能是你的项目
 
-== ASF 提供了项目的治理
+
+== AASF 提供了项目的治理
 [.big]#Apache之道#
 
 == “Apache之道” 核心原则
@@ -113,7 +113,6 @@ image::ApacheStatistics.jpg[]
 image::ApacheSponsors.png[]
 [.small]#获取铜牌赞助商以最新赞助信息,请访问http://www.apache.org/foundation/thanks.html#
 
-
 == 为什么大量的项目会加入Apache
 * **有社会责任感的公司** — 公益贡献
 * **高质量的代码** — 众多的开发者可以从不同角度审视代码
@@ -146,9 +145,8 @@ image::ApacheIncubator.png[]
 [.twocolumns]
 --
 * 理解Apache之道
-* 构建社区
-* 修建协议
-* ？统一基础结构
+* 发展社区
+* 建立协议
 * 发布
 
 image::bridge.jpg[float=right]
@@ -164,46 +162,59 @@ image::bridge.jpg[float=right]
 image::bike.jpg[float=right]
 --
 
-== 孵化器之**构建社区** 社区角色
-* **用户** — 用户是项目存在的意义，没有用户意味着项目不应该存在。
-* **贡献者** — 项目依赖于来自社区的贡献者们。得益于贡献者们，及时反馈bug，邮件讨论，对bug进行改正，增加文档等任务能够完成。
-* **代码提交者** — 以功绩为参考项，杰出的贡献者们能够成为代码提交者。
-* **项目管理委员会会员** — 项目委员会（PMC）负责制定项目的方向，批准发布以及对新的代码提交者和PMC会员投票。
-
 == 社区
 * **友善** — 友善待人
-* **尊重** — 每个人的意见都至关重要
+* **尊重** — 每个人的意见都有价值
 * **信任** — 假设每个人都抱有最大的善意
 * **谦虚** — 其他人可能会有更好的想法
 
-Code of conduct: https://www.apache.org/foundation/policies/conduct.html
 
-== 孵化器: 构建协议是关键
-* **起源** — Establish where every line of code originated 当代码被创造出来时，需要建立协议
-* **商标** — Must not conflict with existing names 不可以与已经存在的名称有冲突
+[.small]#Code of conduct: https://www.apache.org/foundation/policies/conduct.html#
+
+== 构建协议是关键
+* **起源** — 当代码被创造出来时，需要建立协议
+* **商标** — 不可以与已经存在的名称有冲突
 * **软件许可** — 现有代码，测试，文档需要知识产权的拥有者需要将软件许可赋予Apache
-* **贡献者协议** — 在Apache的贡献需要遵循贡献者协议
-** 版权
-** 专利
-** 分发/修改
+* **贡献者协议** — 在Apache的贡献需要遵循贡献者协议：
+** 版权， 专利， 分发/修改
 
-== ？基础设施: 保持前进步伐
-* **邮件列表** — 如果这不在档案列表中，这将不会发生。” 沟通和重新审视是项目管理中至关重要的部分。
-* **源代码存储** — 浏览系统中向公众开放的所有部分。只有代码提交者可以通过PMC指定的流程做出改变。
-* **编译/测试**  — 现在大多数项目都包含持续集成构建和测试流程。
-* **建立网页** — 每个项目都有自己独一无二的网页
-https://project.apache.org
+== Apache协议
+* ？Universal donor 无门槛
+* 务实
+* 免费用于商业和非商业用途
+* 兼容其他开源协议
 
-== 发布发行
-* Legally an act of the Foundation 在法律上，是基金会的行为
+== 协议
+* **A 类** - 可以依赖并包括在发布中
+** MIT, 2 和 3 条款 BSD
+* **B 类** - 可以依赖并且可能包括
+** 通用开发和发布协议 (CDDL), Eclipse公共协议 (EPL), Mozilla公共协议 (MPL), 创作通用因子 (CC-A)
+* **X 类 ** - 不可以依赖并包括在发布中
+** GPL, LGPL, 非商业许可证, JSON
+
+== 发布版本
+* 在法律上，是基金会的行为
 ** “不需要去工作”
 ** “需要合适的协议”
 * 由PMC授权
 ** 需要投票
-** 需要签名
+** 需要电子签名
 * 通过大范围的镜像系统分发
 
-== 孵化器: 毕业
+== 发布
+* 已签名
+* 需要孵化免责声明
+* 有 LICENSE 和 NOTICE 文件
+* 遵循ALv2以及任何包括第三方软件的协议声明
+* 源文件有ASF头
+* 由未编译的源码构成
+
+== 二进制版本
+* 不是必需的
+* 不可以是官方版本
+* 同样需要遵守规则
+
+== 毕业
 [.twocolumns]
 --
 * 演示项目可以独立操作:
@@ -215,19 +226,51 @@ https://project.apache.org
 image:fireworks.jpg[float=right]
 --
 
-== Apache协议
-* ？Universal donor 无门槛
-* 务实
-* 免费用于商业和非商业用途
-* 兼容其他开源协议
+== ServiceComb 孵化记录
 
-== 发布
-* 已签名
-* 需要孵化免责声明
-* 有 LICENSE 和 NOTICE 文件
-* 遵循ALv2以及任何包括第三方软件的协议声明
-* 源文件有ASF头
-* 由未编译的源码构成
+image:ServiceCombIncubating.png[]
+
+== Who is Willem Jiang ?
+* Huawei OpenSource Center Techincal Expert
+* Former RedHat Principle Engineer
+* Apache Member
+* VP Apache ServiceComb
+
+== ServiceComb 简介
+* **Java Chassis** - 具有 MicroServices 管理的高性能Java 服务引擎 
+* **服务中心** - 基于Etcd的高性能服务中心
+* **Pack** - 支持Saga和TCC的Centrical分布式事务协调器
+* **Mesher** - 基于Go的服务网格实现
+* **Kie** - 全新设计的MicroServices配置中心
+
+== 进入Apache的方法 
+* 撰写项目提案
+* 找到 Champion 和Mentor
+* 在IPMC讨论提案
+* 为你的提案开始一轮投票表决
+* 在Apache孵化器创建一个podling工程
+* SGA, CLA, iCLA 签名
+* Podling 名称搜索
+
+== ？配套信息
+* **邮件列表** — 如果这不在档案列表中，这将不会发生。” 沟通和重新审视是项目管理中至关重要的部分。
+* **源代码存储** — 浏览系统中向公众开放的所有部分。只有代码提交者可以通过PMC指定的流程做出改变。
+* **编译/测试**  — 现在大多数项目都包含持续集成构建和测试流程。
+* **建立网页** — 每个项目都有自己独一无二的网页 https://project.apache.org
+
+== 社区角色
+* **用户** — 用户是项目存在的意义，没有用户意味着项目不应该存在。
+* **贡献者** — 项目依赖于来自社区的贡献者们。得益于贡献者们，及时反馈bug，邮件讨论，对bug进行改正，增加文档等任务能够完成。
+* **代码提交者** — 以功绩为参考项，杰出的贡献者们能够成为代码提交者。
+* **项目管理委员会会员** — 项目委员会（PMC）负责制定项目的方向，批准发布以及对新的代码提交者和PMC会员投票。
+
+== 发展社区
+* 丰富介绍内容
+** 使用grassroots媒体，提升网站
+** 提交会议谈话，记录文章
+** 与下游项目合作，帮助下游项目？
+* 通过后退一步来构建一个社区
+* 帮助开发者成为代码提交者
 
 == 对发布进行投票
 * 邮件列表中可以进行投票
@@ -254,35 +297,19 @@ image:fireworks.jpg[float=right]
 * 可能对政策不太熟悉
 * 政策不会囊括所有的情况
 * 政策更多的是指导，很少有绝对的规则
-* 提前和经常发布
+* 提前发布和经常发布
 * 每一个发布都比上一个更好
 
-== 协议
-* **A 类** - 可以依赖并包括在发布中
-** MIT, 2 和 3 条款 BSD
-* **B 类** - 可以依赖并且可能包括
-** 通用开发和发布协议 (CDDL), Eclipse公共协议 (EPL), Mozilla公共协议 (MPL), 创作通用因子 (CC-A)
-* **X 类 ** - 不可以依赖并包括在发布中
-** GPL, LGPL, 非商业许可证, JSON
+== 从Apache孵化器毕业
+* 完成（或者签署）状态文件中的任务文档
+* 保证项目和产品有合适的名称
+* 展示创建一个Apache Release的能力
+* 创建一个开放和多样的社区
+* 通过Apache 项目成熟模型的检测
 
-== 二进制版本
-* 不是必需的
-* 不可以是官方版本
-* 同样需要遵守规则
+[.small]#http://community.apache.org/apache-way/apache-project-maturity-model.html#
 
-== 发展社区
-* 承认功绩
-* 最初代码提交者 == PPMC
-* PPMC 任命新的提交者和 PPMC 成员
-
-== FAQ
-* BDFL是什么
-* 什么是 第3条和第72条规则
-* JFDI是什么
-* RTC/CTR是什么
-* Lazy Consensus 懒惰共识是什么
-
-== Support The ASF
+== ASF支持
 * ASF由企业，基金会和个人的**免税捐款** 赞助
 * **ASF花费10％或更少的开销**
 * ASF基础设施保持Apache关键支持服务24x7x365全天候运行**每个项目每年不到5万美元**
