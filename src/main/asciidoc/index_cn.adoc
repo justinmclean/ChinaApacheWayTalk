@@ -77,7 +77,7 @@ image::ApacheHttpd.png[]
 * 也有可能是你的项目
 
 
-== AASF 提供了项目的治理
+== ASF 提供了项目的治理
 [.big]#Apache之道#
 
 == “Apache之道” 核心原则
