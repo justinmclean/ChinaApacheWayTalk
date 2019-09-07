@@ -142,18 +142,6 @@ image::ApacheIncubator.png[]
 * VP Apache Incubator, VP Apache Mynewt
 * Mentor for IoTDB, Dubbo, RocketMQ and Apex
 
-== The Apache Incubator
-[.twocolumns]
---
-* Learn The Apache Way
-* Build the Community
-* Establish Licensing
-* Integrate Infrastructure
-* Release
-
-image::bridge.jpg[float=right]
---
-
 == Apache孵化器
 [.twocolumns]
 --
@@ -166,16 +154,6 @@ image::bridge.jpg[float=right]
 image::bridge.jpg[float=right]
 --
 
-== The Apache Incubator
-[.twocolumns]
---
-* Takes 1-2 years sometimes longer
-* Graduate to a Top Level Project
-* Not all projects graduate
-
-image::bike.jpg[float=right]
---
-
 == Apache孵化器
 [.twocolumns]
 --
@@ -186,147 +164,126 @@ image::bike.jpg[float=right]
 image::bike.jpg[float=right]
 --
 
-== Incubation: Build the Community
-* **Users** — Users are the reason a project exists. No users ⇒ no project
-* **Contributors** — Our projects depend on contributions from the community -- bug reports, email discussions, bug fixes, documentation
-* **Committers** — Frequent contributors become committers after demonstrating merit
-* **Project Management Committee Members** — The PMC is responsible for setting the direction of the project, authorizing releases, and voting new committers and PMC members
-
 == 孵化器之**构建社区** 社区角色
 * **用户** — 用户是项目存在的意义，没有用户意味着项目不应该存在。
 * **贡献者** — 项目依赖于来自社区的贡献者们。得益于贡献者们，及时反馈bug，邮件讨论，对bug进行改正，增加文档等任务能够完成。
 * **代码提交者** — 以功绩为参考项，杰出的贡献者们能够成为代码提交者。
 * **项目管理委员会会员** — 项目委员会（PMC）负责制定项目的方向，批准发布以及对新的代码提交者和PMC会员投票。
 
-== Community
-* **Politeness** — Be nice
-* **Respect** — Everyone’s point of view has value
-* **Trust** — Assume the best intentions
-* **Humility** — Others might have better ideas
-
-Code of conduct: https://www.apache.org/foundation/policies/conduct.html
-
 == 社区
 * **友善** — 友善待人
 * **尊重** — 每个人的意见都至关重要
-* **Trust** — Assume the best intentions
-* **Humility** — Others might have better ideas
+* **信任** — 假设每个人都抱有最大的善意
+* **谦虚** — 其他人可能会有更好的想法
 
 Code of conduct: https://www.apache.org/foundation/policies/conduct.html
 
+== 孵化器: 构建协议是关键
+* **起源** — Establish where every line of code originated 当代码被创造出来时，需要建立协议
+* **商标** — Must not conflict with existing names 不可以与已经存在的名称有冲突
+* **软件许可** — 现有代码，测试，文档需要知识产权的拥有者需要将软件许可赋予Apache
+* **贡献者协议** — 在Apache的贡献需要遵循贡献者协议
+** 版权
+** 专利
+** 分发/修改
 
-== Incubation: Licensing is a key aspect
-* **Provenance** — Establish where every line of code originated
-* **Trademarks** — Must not conflict with existing names
-* **Software Grants** — The owner of the intellectual property of existing code/test/documentation must grant rights to Apache
-* **Contributor Licenses** — Contributions while at Apache are governed by contributor licenses:
-** Copyright
-** Patent
-** Distribution/Modification
+== ？基础设施: 保持前进步伐
+* **邮件列表** — 如果这不在档案列表中，这将不会发生。” 沟通和重新审视是项目管理中至关重要的部分。
+* **源代码存储** — 浏览系统中向公众开放的所有部分。只有代码提交者可以通过PMC指定的流程做出改变。
+* **编译/测试**  — 现在大多数项目都包含持续集成构建和测试流程。
+* **建立网页** — 每个项目都有自己独一无二的网页
+https://project.apache.org
 
+== 发布发行
+* Legally an act of the Foundation 在法律上，是基金会的行为
+** “不需要去工作”
+** “需要合适的协议”
+* 由PMC授权
+** 需要投票
+** 需要签名
+* 通过大范围的镜像系统分发
 
-== Infrastructure: Keeping the wheels on
-* **Mail lists** — “If it isn't on an archived list, it didn't happen”. Communication and review are essential to project governance.
-* **Source repository** — Viewing all parts of the system is open to the public. Changes are made only by committers via procedures established by the PMC.
-* **Build/Test**  — Most projects now incorporate continuous integration build and test processes.
-* **Establish a Web Presence** — Each project has its own unique web page https://project.apache.org
-
-== Release distributions
-* Legally an act of the Foundation
-** “Does NOT need to work”
-** “Does need proper licensing”
-* Authorized by the Project Management Committee
-** Vote required
-** Digital Signature(s) required
-* Distributed via extensive mirror system
-
-== Incubation: Graduation
+== 孵化器: 毕业
 [.twocolumns]
 --
-* Demonstrate that the project can operate independently:
-** Self-governance
-** Release management
-* Establish legal framework
-* Publicity
+* 演示项目可以独立操作:
+** 自我管理
+** 发布管理
+* 建立法律框架
+* 宣传
 
 image:fireworks.jpg[float=right]
 --
 
-== Who is Willem Jiang ?
-* Huawei OpenSource Center Techincal Expert
-* Former RedHat Principle Engineer
-* Apache Member
-* VP Apache ServiceComb
+== Apache协议
+* ？Universal donor 无门槛
+* 务实
+* 免费用于商业和非商业用途
+* 兼容其他开源协议
 
-== Apache License
-* Universal donor
-* Pragmatic
-* Free for commercial and non-commercial use
-* Compatible with other Open Source licenses
+== 发布
+* 已签名
+* 需要孵化免责声明
+* 有 LICENSE 和 NOTICE 文件
+* 遵循ALv2以及任何包括第三方软件的协议声明
+* 源文件有ASF头
+* 由未编译的源码构成
 
-== Releases
-* Are signed
-* Need an incubating disclaimer
-* Have LICENSE and NOTICE files
-* Follows license terms of ALv2 and any included 3rd party software
-* Source files have ASF headers
-* Consist of source with no compiled code
+== 对发布进行投票
+* 邮件列表中可以进行投票
+* 投票开放72小时
+* 发布需要遵循ASF原则
+* 需要 `3 +1` 投票, `+1` 票比 `-1` 票更多
+* 一个 `-1` 票 (反对票) 不会阻止发布
+* `-1` 需要充实的理由
+* 可以改变投票
+* 如果投票通过，接下来就是IPMC对发布进行投票
+* 如果投票没有通过，那么重新创建新的发布然后再次投票
 
-== Voting on Releases
-* Vote in the open on mailing list
-* Vote open for 72 hours
-* Release needs to comply with ASF policy
-* Needs 3 +1 votes and more +1’s than -1’s
-* A -1 vote (a veto) doesn't block the release
-* -1 needs to have a reason to be valid
-* Can change your vote
-* If vote passes then the IPMC votes on the release
-* If vote fails then create new release candidate and vote again
+== 为什么会有 `-1` 票
+* 发布中有编译后的代码
+* 包含了不兼容协议的软件
+* LICENSE和NOTICE 文件问题
+* 版权问题
+* 没有ASF头
+* 包含加密软件
 
-== Why you might vote -1
-* Unexpected compiled code in release
-* Includes software with incompatible license
-* Issue with LICENSE and NOTICE files
-* Issue with copyright
-* Missing ASF headers
-* Contains encryption software
+== 实践创造完美
+* 开始未必是完美的
+* 协议十分复杂
+* 可能对政策不太熟悉
+* 政策不会囊括所有的情况
+* 政策更多的是指导，很少有绝对的规则
+* 提前和经常发布
+* 每一个发布都比上一个更好
 
-== Practice makes perfect
-* Not expected to get it right first off
-* Licensing is complex
-* May not be familiar with policy
-* Policy doesn't cover all situations
-* Policy is more guidelines, there are few absolute rules
-* Release early and release often
-* Each release better than the last
+== 协议
+* **A 类** - 可以依赖并包括在发布中
+** MIT, 2 和 3 条款 BSD
+* **B 类** - 可以依赖并且可能包括
+** 通用开发和发布协议 (CDDL), Eclipse公共协议 (EPL), Mozilla公共协议 (MPL), 创作通用因子 (CC-A)
+* **X 类 ** - 不可以依赖并包括在发布中
+** GPL, LGPL, 非商业许可证, JSON
 
-== Licensing
-* **Category A** - can depend on and include in release
-** MIT, 2 and 3 clause BSD
-* **Category B** - can depend and may be able to include
-** Common Development and Distribution License (CDDL), Eclipse Public License (EPL), Mozilla Public License (MPL), Creative Common Attribution (CC-A)
-* **Category X** - can't depend on or include in release
-** GPL, LGPL, non commercial licenses, JSON
+== 二进制版本
+* 不是必需的
+* 不可以是官方版本
+* 同样需要遵守规则
 
-== Binary releases
-* Are not required
-* Are not official releases
-* Also need to follow policy
+== 发展社区
+* 承认功绩
+* 最初代码提交者 == PPMC
+* PPMC 任命新的提交者和 PPMC 成员
 
-== Growing the community
-* Recognizing merit
-* Initially committers == PPMC
-* PPMC appoint new committers and PPMC members
-
-== Frequently Asked Questions
-* What is BDFL
-* What are Rule of 3 and Rule of 72
-* What is JFDI
-* What are RTC/CTR
-* What is Lazy Consensus
+== FAQ
+* BDFL是什么
+* 什么是 第3条和第72条规则
+* JFDI是什么
+* RTC/CTR是什么
+* Lazy Consensus 懒惰共识是什么
 
 == Support The ASF
-* The ASF is funded through **tax-deductible contributions** from corporations, foundations, and private individuals
-* **The ASF spends 10% or less on overhead**
-* ASF Infrastructure keeps Apache critical support services running 24x7x365 for **less than US$5K per project/year**
-* Help keep Apache software projects **freely available to ALL** around the world
+* ASF由企业，基金会和个人的**免税捐款** 赞助
+* **ASF花费10％或更少的开销**
+* ASF基础设施保持Apache关键支持服务24x7x365全天候运行**每个项目每年不到5万美元**
+* 帮助保持Apache软件项目**免费提供给所有人**
