@@ -179,7 +179,7 @@ image::bike.jpg[float=right]
 ** 版权， 专利， 分发/修改
 
 == Apache协议
-* ？Universal donor 无门槛
+* 万能捐献者
 * 务实
 * 免费用于商业和非商业用途
 * 兼容其他开源协议
@@ -188,8 +188,8 @@ image::bike.jpg[float=right]
 * **A 类** - 可以依赖并包括在发布中
 ** MIT, 2 和 3 条款 BSD
 * **B 类** - 可以依赖并且可能包括
-** 通用开发和发布协议 (CDDL), Eclipse公共协议 (EPL), Mozilla公共协议 (MPL), 创作通用因子 (CC-A)
-* **X 类 ** - 不可以依赖并包括在发布中
+** 通用开发和发布协议 (CDDL), Eclipse公共协议 (EPL), Mozilla公共协议 (MPL), 知识共享许可协议 (CC-A)
+* **X 类 ** - 不可以依赖或者包括在发行版中
 ** GPL, LGPL, 非商业许可证, JSON
 
 == 发布版本
