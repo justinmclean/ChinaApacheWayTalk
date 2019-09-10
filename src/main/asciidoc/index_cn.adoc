@@ -30,15 +30,15 @@ image::ApacheLogo.png[]
 == 解读Apache
 {authors} +
 
-== Who is Craig Russell?
-* Software Architect
+== Craig Russell介绍
+* 软件架构师
 ** Object Data Management Group
 ** Java Data Objects (JDO)
 ** Database Jones (MySQL)
 * Apache Committer - from 2005
 * Apache Member - from 2007
 * Apache Secretary - from 2010
-* Member, Incubator Project Management Committee
+* Apache 孵化器管理委员成员
 
 == Apache 软件基金会: 世界上最大的开源基金会
 
@@ -129,17 +129,17 @@ image::ApacheSponsors.png[]
 image::ApacheIncubatorLogo.png[]
 --
 
-== Podlings Undergoing Development
+== Apache孵化器解读
 image::ApacheIncubator.png[]
 
-== Who is Justin Mclean?
-* Freelance developer for 25+ years
-** IoT Meetup Sydney
+== Justin Mclean介绍
+* 25年+自由开发者
+** 悉尼IoT Meetup
 * Apache Committer - from 2012
 * Apache Member - from 2014
-* Member, Incubator Project Management Committee,
-* VP Apache Incubator, VP Apache Mynewt
-* Mentor for IoTDB, Dubbo, RocketMQ and Apex
+* Apache 孵化器管理委员成员
+* VP Apache 孵化器, VP Apache Mynewt
+* IoTDB, Dubbo, RocketMQ，Apex项目导师
 
 == Apache孵化器
 [.twocolumns]
@@ -230,20 +230,20 @@ image:fireworks.jpg[float=right]
 
 image:ServiceCombIncubating.png[]
 
-== Who is Willem Jiang ?
-* Huawei OpenSource Center Techincal Expert
-* Former RedHat Principle Engineer
-* Apache Member
-* VP Apache ServiceComb
+== 姜宁介绍
+* 华为开源能力中心技术专家
+* 前红帽软件主任工程师
+* Apache会员
+* Apache ServiceComb项目负责人
 
 == ServiceComb 简介
-* **Java Chassis** - 具有 MicroServices 管理的高性能Java 服务引擎 
+* **Java Chassis** - 具有 MicroServices 管理的高性能Java 服务引擎
 * **服务中心** - 基于Etcd的高性能服务中心
 * **Pack** - 支持Saga和TCC的Centrical分布式事务协调器
 * **Mesher** - 基于Go的服务网格实现
 * **Kie** - 全新设计的MicroServices配置中心
 
-== 进入Apache的方法 
+== 进入Apache的方法
 * 撰写项目提案
 * 找到 Champion 和Mentor
 * 在IPMC讨论提案
