@@ -37,8 +37,9 @@ image::ApacheLogo.png[]
 ** Database Jones (MySQL)
 * Apache Committer - from 2005
 * Apache Member - from 2007
-* Apache Secretary - from 2010
+* Apache Secretary - 2010 - 2019
 * Member, Incubator Project Management Committee
+* Chairman, Apache Board of Directors
 
 == Apache Software Foundation: The World’s Largest Open Source Foundation
 
@@ -74,7 +75,7 @@ image::ApacheHttpd.png[]
 * Robot Apocalypse
 * Autonomous Vehicles
 * Interplanetary Exploration
-* Blockchain
+[.line-through]* Blockchain
 * Your Project Here
 
 == ASF provides project governance
