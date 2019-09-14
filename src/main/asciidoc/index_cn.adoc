@@ -37,8 +37,9 @@ image::ApacheLogo.png[]
 ** Database Jones (MySQL)
 * Apache Committer - from 2005
 * Apache Member - from 2007
-* Apache Secretary - from 2010
+* Apache Secretary - from 2010-2019
 * Apache 孵化器管理委员成员
+* Apache 董事会主席
 
 == Apache 软件基金会: 世界上最大的开源基金会
 
