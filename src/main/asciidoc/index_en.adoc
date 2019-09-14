@@ -232,8 +232,8 @@ image:fireworks.jpg[float=right]
 image:ServiceCombIncubating.png[]
 
 == Who is Willem Jiang ?
-* Huawei OpenSource Center Techincal Expert
-* Former RedHat Principle Engineer
+* Huawei OpenSource Center Technical Expert
+* Former RedHat Principal Engineer
 * Apache Member
 * VP Apache ServiceComb
 
@@ -296,8 +296,8 @@ image:ServiceCombIncubating.png[]
 * Not expected to get it right first off
 * Licensing is complex
 * May not be familiar with policy
-* Policy doesn't cover all situations
 * Policy is more guidelines, there are few absolute rules
+* DISCLAIMER-WIP
 * Release early and release often
 * Each release better than the last
 
