@@ -131,7 +131,7 @@ image::ApacheIncubatorLogo.png[]
 --
 
 == Apache孵化器解读
-image::ApacheIncubator.png[]
+image::ApacheIncubator.jpg[width=40%]
 
 == Justin Mclean介绍
 * 25年+自由开发者
@@ -150,7 +150,7 @@ image::ApacheIncubator.png[]
 * 建立协议
 * 发布
 
-image::bridge.jpg[float=right]
+image::bridge.jpg[]
 --
 
 == Apache孵化器
@@ -160,7 +160,7 @@ image::bridge.jpg[float=right]
 * 毕业成为顶级项目
 * 并非每一个项目都有这样的机会
 
-image::bike.jpg[float=right]
+image::bike.jpg[]
 --
 
 == 社区
@@ -224,7 +224,7 @@ image::bike.jpg[float=right]
 * 建立法律框架
 * 宣传
 
-image:fireworks.jpg[float=right]
+image:fireworks.jpg[]
 --
 
 == ServiceComb 孵化记录

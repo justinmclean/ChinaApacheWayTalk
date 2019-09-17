@@ -409,3 +409,8 @@ body {
   -moz-column-count: 2;
   column-count: 2;
 }
+
+.line-through
+{
+  text-decoration: line-through;
+}

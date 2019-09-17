@@ -75,7 +75,9 @@ image::ApacheHttpd.png[]
 * Robot Apocalypse
 * Autonomous Vehicles
 * Interplanetary Exploration
-[.line-through]* Blockchain
++
+[.line-through]
+Blockchain
 * Your Project Here
 
 == ASF provides project governance
@@ -131,7 +133,7 @@ image::ApacheIncubatorLogo.png[]
 --
 
 == Podlings Undergoing Development
-image::ApacheIncubator.png[]
+image::ApacheIncubator.jpg[width=40%]
 
 == Who is Justin Mclean?
 * Freelance developer for 25+ years
@@ -150,7 +152,7 @@ image::ApacheIncubator.png[]
 * Establish Licensing
 * Release
 
-image::bridge.jpg[float=right]
+image::bridge.jpg[]
 --
 
 == The Apache Incubator
@@ -160,7 +162,7 @@ image::bridge.jpg[float=right]
 * Graduate to a Top Level Project
 * Not all projects graduate
 
-image::bike.jpg[float=right]
+image::bike.jpg[]
 --
 
 == Community Building
