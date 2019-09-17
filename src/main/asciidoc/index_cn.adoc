@@ -150,7 +150,7 @@ image::ApacheIncubator.jpg[width=40%]
 * 建立协议
 * 发布
 
-image::bridge.jpg[]
+image::bridge.jpg[width=70%]
 --
 
 == Apache孵化器
@@ -160,7 +160,7 @@ image::bridge.jpg[]
 * 毕业成为顶级项目
 * 并非每一个项目都有这样的机会
 
-image::bike.jpg[]
+image::spiral.jpg[width=70%]
 --
 
 == 社区

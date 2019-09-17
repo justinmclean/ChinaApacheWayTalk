@@ -152,7 +152,7 @@ image::ApacheIncubator.jpg[width=40%]
 * Establish Licensing
 * Release
 
-image::bridge.jpg[]
+image::bridge.jpg[width=70%]
 --
 
 == The Apache Incubator
@@ -162,7 +162,7 @@ image::bridge.jpg[]
 * Graduate to a Top Level Project
 * Not all projects graduate
 
-image::bike.jpg[]
+image::spiral.jpg[width=70%]
 --
 
 == Community Building
