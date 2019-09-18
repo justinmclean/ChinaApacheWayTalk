@@ -74,7 +74,9 @@ image::ApacheHttpd.png[]
 * 机器人
 * 自动驾驶
 * 星际探索
-* 区块链
++
+[.line-through]
+区块链
 * 也有可能是你的项目
 
 
