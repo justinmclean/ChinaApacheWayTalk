@@ -52,7 +52,7 @@ A **neutral space** where projects which are **independent** from any corporate 
 
 == Established as a public charity in 1999
 
-[.big]#Mission: To provide software at no charge for the public good.#
+[.big]#*Mission: To provide software at no charge for the public good.*#
 
 == !
 image::ApacheProjects.png[]
@@ -140,7 +140,7 @@ image::ApacheIncubator.jpg[width=40%]
 ** IoT Meetup Sydney
 * Apache Committer - from 2012
 * Apache Member - from 2014
-* Member, Incubator Project Management Committee,
+* Member, Incubator Project Management Committee
 * VP Apache Incubator, VP Apache Mynewt
 * Mentor for IoTDB, Dubbo, RocketMQ and Apex
 
