@@ -22,9 +22,7 @@
 :keywords: Apache Way
 :authors: Presented by + \
 Craig Russell + \
-Justin Mclean + \
-Willem Jiang + \
-Including original work of Bertrand Delacretaz, Roman Shaposhnik and other amazing ASF contributors
+Including original work of Bertrand Delacretaz, Roman Shaposhnik, Justin Mclean, Willem Jiang and other amazing ASF contributors
 image::ApacheLogo.png[]
 
 == Apache Explained
@@ -135,15 +133,6 @@ image::ApacheIncubatorLogo.png[]
 == Podlings Undergoing Development
 image::ApacheIncubator.jpg[width=40%]
 
-== Who is Justin Mclean?
-* Freelance developer for 25+ years
-** IoT Meetup Sydney
-* Apache Committer - from 2012
-* Apache Member - from 2014
-* Member, Incubator Project Management Committee
-* VP Apache Incubator, VP Apache Mynewt
-* Mentor for IoTDB, Dubbo, RocketMQ and Apex
-
 == The Apache Incubator
 [.twocolumns]
 --
@@ -228,23 +217,6 @@ image::spiral.jpg[width=70%]
 
 image:fireworks.jpg[float=right]
 --
-
-== ServiceComb Incubating Journey
-
-image:ServiceCombIncubating.png[]
-
-== Who is Willem Jiang ?
-* Huawei OpenSource Center Technical Expert
-* Former RedHat Principal Engineer
-* Apache Member
-* VP Apache ServiceComb
-
-== ServiceComb Introduction
-* **Java Chassis** - High performance Java service engine with MicroServices governance
-* **Service Center** - High performance Service Center based on Etcd
-* **Pack** - A Centrical distributed transaction coordinator which supports Saga and TCC
-* **Mesher** - A services mesh implementation based on Go
-* **Kie** - A new designed MicroServices configuration center
 
 == Find a way to Apache
 * Writing a proposal of your project
