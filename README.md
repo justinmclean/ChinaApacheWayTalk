@@ -7,6 +7,8 @@ An overview of the ASF foundation and how it operates under the Apache Way.
 
 The slides are generated from [asciidoctor](https://asciidoctor.org) markup and displayed with [reveal.js](https://asciidoctor.org/docs/asciidoctor-revealjs/). This means the content can be kept under version control and exported to a number of formats other than HTML.
 
+Please check out the examples of [asciidoctor-revealjs](https://asciidoctor.org/docs/asciidoctor-revealjs/#syntax-examples) for more information about using markdown with reveal.js.
+
 ## How to Build
 
 To install the needed dependencies on OSX run:
