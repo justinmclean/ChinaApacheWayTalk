@@ -25,6 +25,7 @@ Craig Russell + \
 Justin Mclean + \
 姜宁 + \
 本演讲包含了 Bertrand Delacretaz, Roman Shaposhnik 以及其它ASF贡献者的工作
+:imagesdir: ../resources/images/
 image::ApacheLogo.png[]
 
 == 解读Apache

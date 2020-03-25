@@ -25,6 +25,7 @@ Craig Russell + \
 Justin Mclean + \
 Willem Jiang + \
 Including original work of Bertrand Delacretaz, Roman Shaposhnik and other amazing ASF contributors
+:imagesdir: ../resources/images/
 image::ApacheLogo.png[]
 
 == Apache Explained
