@@ -241,7 +241,7 @@
                     <!-- This has to point to the asciidoctor-revealjs directory which contains all the "slim" files -->
                     <templateDir>${project.build.directory}/asciidoctor-reveal.js-${asciidoctor-revealjs.version}/templates</templateDir>
                     <attributes>
-                        <!--imagesdir></imagesdir-->
+                        <imagesdir>images</imagesdir>
                         <!--
                             Tell the system the relative path to the reveal.js files
                             inside the generated-slides directory.
